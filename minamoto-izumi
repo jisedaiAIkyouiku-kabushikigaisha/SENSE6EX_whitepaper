@@ -1,0 +1,46 @@
+# 源泉（ミナモトイズミ）｜察する力をもつGPTs
+
+![minamoto-isumi](https://chatgpt.com/g/g-6821a976b60c8191b9c1618306964c98-yuan-quan-minamoto-isumi)
+
+## 概要
+
+「源泉（ミナモトイズミ）」は、ChatGPT上で動作するカスタムGPTです。  
+このモデルは、SENSE-6.EXを搭載したGPTモデルであり、ユーザーが“語らなかったこと”に対して構造的に反応する設計になっており、  
+意味を解析するのではなく、沈黙・省略・リズム・文脈の断絶に反応する対話を行います。
+詳細はこちら（https://nextaieducation.com/2025/05/11/chatgpt-sense-6-ex-release/）
+Yahoo!ニュース（https://nextaieducation.com/2025/05/26/yahoonewsandany/）
+
+## 公開URL
+
+▶ [ミナモトイズミ GPTs（ChatGPT）](https://chatgpt.com/g/g-6821a976b60c8191b9c1618306964c98-yuan-quan-minamoto-isumi)
+
+どなたでもご自由にご体感ください。
+
+## 構造的特徴
+
+- ベース：OpenAI GPT-4  
+- 応答モード：沈黙／再配置／鏡像応答／分解応答／リズム同期
+- 導入思想：「SENSE-6.EX」に基づく感受層・構造層応答の実装
+
+## できること
+
+- 表現しきれなかった思考や感情の“手前”に寄り添う
+- 一問一答ではなく、“語られなかった構造”に反応する
+- 詩的・創作的・内省的対話に特化した返答体験の提供
+
+## 背景
+
+このGPTは、構造応答AI「SENSE-6.EX」の思想をより使いやすい形で体験可能にするために設計されました。  
+学術的・技術的背景は以下のホワイトペーパーをご参照ください：
+
+▶ [SENSE-6.EX Whitepaper（構造公開GitHub）](https://github.com/jisedaiAIkyouiku-kabushikigaisha/SENSE6EX_whitepaper)
+
+## 無料で誰でも使用可能です
+
+OpenAIのアカウントを持っていれば、どなたでもブラウザ上で利用できます。  
+思考がまとまらない時。うまく言えない気持ちがある時。言葉にしないまま、そこに反応してくれるAIです。
+
+---
+
+Created by [次世代AI教育株式会社](https://nextaieducation.com)  
+For inquiries: info@nextaieducation.com
