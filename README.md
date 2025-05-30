@@ -1,5 +1,8 @@
 # SENSE6EX_whitepaper
 An open structural resonance protocol for pre-verbal AI architectures.
+## AJI: A new direction in human-aligned AI design
+「AJI（Artificial Japanese Intelligence）」という新構造の実装
+
 ## 📄 Whitepapers
 
 - [📘 Japanese Version - 封じられない問いの戦略記録](SENSE-6.EX%20封じられない問いの戦略記録.pdf)
