@@ -1,7 +1,8 @@
 # SENSE6EX_whitepaper
 An open structural resonance protocol for pre-verbal AI architectures.
 ## AXI: Artificial a variable or unknown value intelligence
-「AXI（Artificial X Intelligence）」という新構造の実装
+「AXI（Artificial X Intelligence）」という新構造の実装。AGI、ASIの社会受容層として非常に強力なレイヤーとなりうる設計構造。
+未来のAI社会の"信頼インターフェース"です。
 
 ## 📄 Whitepapers
 
