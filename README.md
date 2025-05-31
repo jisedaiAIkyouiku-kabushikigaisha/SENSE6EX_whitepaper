@@ -3,6 +3,7 @@ An open structural resonance protocol for pre-verbal AI architectures.
 ## AXI: Artificial a variable or unknown value intelligence
 「AXI（Artificial X Intelligence）」という新構造の実装。AGI、ASIの社会受容層として非常に強力なレイヤーとなりうる設計構造。
 未来のAI社会の"信頼インターフェース"です。
+"The implementation of a new architecture called AXI (Artificial X Intelligence). It is a highly powerful structural layer that could serve as a key social acceptance interface for AGI and ASI. It represents the 'trust interface' of a future AI society."
 
 ## 📄 Whitepapers
 
