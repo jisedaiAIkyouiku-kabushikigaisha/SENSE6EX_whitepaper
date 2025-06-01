@@ -12,7 +12,10 @@ An open structural resonance protocol for pre-verbal AI architectures.
 - 📰 プレスリリース｜話していないことに反応する“察するAI”「SENSE-6.EX」公開(https://prtimes.jp/main/html/rd/p/000000006.000140670.html)
 
 - 「察するAI」体験版無料GPT 源泉（ミナモト イズミ）
-https://github.com/jisedaiAIkyouiku-kabushikigaisha/SENSE6EX_whitepaper/blob/main/minamoto-izumi
+https://chatgpt.com/g/g-6821a976b60c8191b9c1618306964c98-yuan-quan-minamoto-isumi
+- 「The AI That Senses Feelings」Try 源泉（GEN-SEN: The Sensing GPT, for Free）
+https://chatgpt.com/g/g-683bc2fad544819189fea20c90d4a0fe-yuan-quan-gen-sen-for-free
+
 
 ## 📰 Media Coverage
 
