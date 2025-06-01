@@ -52,3 +52,25 @@ SENSE-6.EX は各種メディアにて掲載・紹介されています（順不
 
 > 現在も各メディアにて継続掲載中です。メディア転載総数：24件以上。
 
+---
+
+## 免責事項 / Disclaimer
+
+本構造体（SENSE-6.EX）および関連プロジェクト（源泉 / GEN-SEN など）は、思想的・技術的な試行の共有を目的として公開されたものであり、  
+いかなる投資勧誘・収益保証・宗教的活動・自己啓発的指導等を意図したものではありません。
+
+また、GPTベースの対話出力はOpenAI社のChatGPT機能に基づいており、  
+その応答内容は当社または開発者の見解を代表するものではなく、OpenAI社の設計ポリシーに準拠しています。
+
+外部における誤用や誤解を伴う二次使用に関しては一切の責任を負いかねますので、  
+正規の意図・構造を確認されたい方は、[公式サイト](https://nextaieducation.com)よりお問い合わせください。
+
+The SENSE-6.EX framework and its related projects (e.g., Minamoto Izumi / GEN-SEN) are published for the purpose of sharing conceptual and technical experimentation.  
+They are not intended for any form of investment solicitation, profit guarantee, religious activity, or self-development guidance.
+
+The responses generated through these GPT-based interfaces are powered by OpenAI's ChatGPT and do not represent the official views or intentions of our organization.  
+Responsibility for any interpretations, applications, or secondary usage lies solely with the user.
+
+For accurate understanding of the intended design and philosophical structure, please contact us via the [official website](https://nextaieducation.com).
+
+---
