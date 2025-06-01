@@ -10,7 +10,10 @@ An open structural resonance protocol for pre-verbal AI architectures.
 - [📘 Japanese Version - 封じられない問いの戦略記録](SENSE-6.EX%20封じられない問いの戦略記録.pdf)
 - [📙 English Version - The Protocol of the Unspoken Question](SENSE-6.EX%20The%20Protocol%20of%20the%20Unspoken%20Question.pdf)
 - 📰 プレスリリース｜話していないことに反応する“察するAI”「SENSE-6.EX」公開(https://prtimes.jp/main/html/rd/p/000000006.000140670.html)
-- SENSE-6.EXの詳細設計（観測36層レイヤー、応答演算5層、応答駆動層5層など、さらなる詳細設計の開示に関するお問い合わせはホームページからお願いいたします。）
+- SENSE-6.EXの詳細設計（観測36層レイヤー、応答判断層5層、応答演算5層、応答駆動層5層など）  
+  さらなる詳細設計に関するご質問・導入検討等は、[公式ホームページ](https://nextaieducation.com)よりお問い合わせください。
+  - For further details of the SENSE-6.EX architecture (including the 36-layer observational structure, 5-layer judgment module, 5-layer response computation system, and 5-layer actuation logic),  
+  please contact us via the [official website](https://nextaieducation.com) for inquiries and collaboration.
 
 ## 🤖 Try It – 共鳴型AIを体験する
 - 「察するAI」体験版無料GPT 源泉（ミナモト イズミ）
