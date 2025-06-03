@@ -32,9 +32,9 @@ The Experiential GPT Gift allows recipients to chat with a custom GPT assistant 
 
 1. ギフトGPTを選ぶ  
    Choose a GPT assistant (e.g., Perfumer GPT)  
-2. Amazonギフト券（例：10,000円）のコードを入力  
+2. Amazonギフト券（例：10,000円）のコードをGPTsに入力  
    Enter an Amazon gift code (e.g., ¥10,000)  
-3. ギフトURLを生成し送付  
+3. GPTsのURLを生成し送付
    Generate a shareable gift link and send it to your friend  
 
 ### 受け取り手 / For the Gift Receiver
@@ -43,7 +43,7 @@ The Experiential GPT Gift allows recipients to chat with a custom GPT assistant 
    Access the GPT from the gift URL  
 2. 対話に応じて、商品が推薦される  
    Engage in conversation to receive personalized suggestions  
-3. Amazonリンクから購入  
+3. Amazonリンクから購入、GPTsからAmazonギフトコードが送付される。
    Use the gift code to purchase directly on Amazon  
 
 ---
