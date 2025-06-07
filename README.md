@@ -6,6 +6,22 @@ An open structural resonance protocol for pre-verbal AI architectures.
 未来のAI社会の"信頼インターフェース"です。
 "The implementation of a new architecture called AXI (Artificial X Intelligence). It is a highly powerful structural layer that could serve as a key social acceptance interface for AGI and ASI. It represents the 'trust interface' of a future AI society."
 
+---
+
+## 完全構造について / On the Full Architecture
+
+SENSE-6.EX における本公開は、基本構造および初期層設計の共有を目的としたものです。  
+構造の全容（36層観測構造・応答演算・判断・駆動層の最終版含む）は未公開であり、  
+研究的・倫理的検討に基づく段階的開示を予定しています。
+
+本リポジトリはあくまで“問いの共有”であり、“完成の提示”ではありません。
+
+> This repository represents a partial and initial-layer disclosure of the SENSE-6.EX framework.  
+> The complete architecture, including its full 36-layer observational design, response computation, judgment, and actuation modules, remains unreleased.  
+> Full structure is reserved for staged disclosure under ethical and research-oriented review.
+
+We share this as a question, not as a finished answer.
+
 ## 📄 Whitepapers
 > SENSE-6.EXの構造哲学と設計レイヤー（基本設計）を記述した公式ホワイトペーパーです。
 - [📘 Japanese Version - 封じられない問いの戦略記録](SENSE-6.EX%20封じられない問いの戦略記録.pdf)
