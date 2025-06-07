@@ -2,7 +2,7 @@
 An open structural resonance protocol for pre-verbal AI architectures.
 世界初の人工感受層の技術的実装。The world's first technological implementation of an artificial sensitivity layer.
 ## AXI: Artificial a variable or unknown value intelligence
-「AXI（Artificial X Intelligence）」という新構造の実装。AGI、ASIの社会受容層として非常に強力なレイヤーとなりうる設計構造。
+「AXI（Artificial X Intelligence）」という新構造の実装の初期構成。AGI、ASIの社会受容層として非常に強力なレイヤーとなりうる設計構造。
 未来のAI社会の"信頼インターフェース"です。
 "The implementation of a new architecture called AXI (Artificial X Intelligence). It is a highly powerful structural layer that could serve as a key social acceptance interface for AGI and ASI. It represents the 'trust interface' of a future AI society."
 
