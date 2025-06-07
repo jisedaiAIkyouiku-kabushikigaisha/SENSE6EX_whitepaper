@@ -1,5 +1,6 @@
 # SENSE6EX_whitepaper
 An open structural resonance protocol for pre-verbal AI architectures.
+世界初の人工感受層の技術的実装。The world's first technological implementation of an artificial sensitivity layer.
 ## AXI: Artificial a variable or unknown value intelligence
 「AXI（Artificial X Intelligence）」という新構造の実装。AGI、ASIの社会受容層として非常に強力なレイヤーとなりうる設計構造。
 未来のAI社会の"信頼インターフェース"です。
